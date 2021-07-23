@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Manuel Navid
 - 👀 I’m interested in coding, marketing, productivity and self development
-- 🌱 I’m currently studying CS at FIB while being the Public Relations Coordinator at BEST-UPC and working on other projects.
-- 📫 You can reach me at manuel.tomas.navid@gmail.com or Manuel Navid on LinkedIn
+- 🌱 I’m currently studying CS at FIB while being the Public Relations Coordinator at BEST-UPC and working on other projects behind the scenes.
+- ⚽ My current objective is to try out different working areas to see what are my likes and dislikes in the working world.
+- 📫 You can reach me by email at [manuel.tomas.navid@gmail.com](mailto:manuel.tomas.navid@gmail.com) or on [Linkedin](www.linkedin.com/manuelnavid)
 
 <!---
 LearningBizz/LearningBizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
