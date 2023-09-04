@@ -6,9 +6,9 @@
 
 <br>
 
-- 👀 I’m interested in coding, marketing, productivity, and self-development.
-- 👨‍💻 I’m currently studying CS at FIB-UPC, volunteering at [BEST-UPC](https://bestbarcelona.org/web), and preparing for my exchange at Chalmers University in Sweden as part of the 2022 UNITECH cohort.
-- ⚽ My goal is to work as a software engineer at a company that I like, that I believe will have a positive impact in tomorrow's future.
+- 👀 I’m interested in software development, marketing, leadership, cooking, volleyball, and dancing!
+- 👨‍💻 I recently graduated with a bachelor's in computer engineering at Universitat Politecnica de Catalunya (FIB-UPC) after successfully finalizing an internship at Evonik as a full-stack engineer.
+- ⚽ I'm currently looking to continue my professional career in the software development industry as a **full-stack engineer or a backend engineer** in Barcelona, Spain, or remote.
 - 📫 You can reach me by email at **[learningbizz@gmail.com](mailto:learningbizz@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/manuelnavid)**
 
 <!---
