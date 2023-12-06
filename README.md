@@ -7,8 +7,7 @@
 <br>
 
 - 👀 I’m interested in software development, marketing, leadership, cooking, volleyball, and dancing!
-- 👨‍💻 I recently graduated with a bachelor's in computer engineering at Universitat Politecnica de Catalunya (FIB-UPC) after successfully finalizing an internship at Evonik as a full-stack engineer.
-- ⚽ I'm currently looking to continue my professional career in the software development industry as a **full-stack engineer or a backend engineer** in Barcelona, Spain, or remote.
+- 👨‍💻 Currently working as a backend software engineer at eDreams ODIGEO, working with a wide variety of technologies, including Java, SQL, Kafka, and much more.
 - 📫 You can reach me by email at **[learningbizz@gmail.com](mailto:learningbizz@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/manuelnavid)**
 
 <!---
