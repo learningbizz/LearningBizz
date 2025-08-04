@@ -7,7 +7,7 @@
 <br>
 
 - 👀 I’m interested in software development, marketing, leadership, cooking, volleyball, and dancing!
-- 👨‍💻 Currently working as a Product Engineer at Latitude to create the best platform to design, create, evaluate, and monitor AI agent. 
+- 👨‍💻 Currently working as a Product Engineer at @latitude-dev to create the best platform to design, create, evaluate, and monitor AI agent. 
 - 📫 You can reach me by email at **[learningbizz@gmail.com](mailto:learningbizz@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/manuelnavid)**
 
 <!---
